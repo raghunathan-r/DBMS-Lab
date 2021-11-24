@@ -13,7 +13,6 @@ Here is the link to [my lab record 📒](https://raghunathan.notion.site/DBMS-La
 
 
 ## Starting MySql in WSL
-Install my-project with npm
 
 ```bash
    sudo /etc/init.d/mysql start
