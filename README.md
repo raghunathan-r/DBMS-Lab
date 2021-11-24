@@ -8,6 +8,7 @@ Here is the link to [my lab record 📒](https://raghunathan.notion.site/DBMS-La
 
 ## MySql for WSL Installation
 
+[🐧 How to install WSL in windows 10](https://youtu.be/_fntjriRe48?t=85) <br>
 [👉 MySql Installation microsoft docs](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database#:~:text=your%20use%20case.-,Install%20MySQL,-To%20install%20MySQL)
 
 
