@@ -28,6 +28,7 @@ Go to the directory you want to save the file in first
 ```
 
 ## Importing database
+Make sure the database name you want to import to already exists
 ```bash
    sudo mysql -u root -p new_db_name < backup_file_name.sql
 ```
